@@ -1,0 +1,96 @@
+
+
+.col-md-6{
+    padding: 0px; 
+}
+#first-box{
+    background-color: #4C248C;
+}
+.main-head{
+    text-align: center;
+    margin-top:72px;
+}
+.main-head h1{
+    font-size: 29px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.main-head h1 span{
+    color: #FF8B00;
+}
+.para{
+    padding: 30px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+.currency{
+    padding-left: 126px;
+    padding-top: 22px;
+    margin-left: 0px;
+    margin-right: 60px;
+    padding-bottom: 11px;
+    border-radius: 0px 40px 40px 0px;
+    font-size: 22px;
+    font-weight: 400;
+    background-color: #5F409D;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.currency p span{
+    color: #00F400;
+}
+
+.para2{
+    padding: 15px;
+    margin-top: 24px;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+.button-box{
+    justify-content: center;
+    padding-bottom:60px ;
+    margin-top: 20px;
+}
+
+.btn{
+    padding: 10px 60px 10px 60px;
+    border-radius: 30px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#second-box{
+    background-image: linear-gradient(rgb(53, 8, 111)60%,rgb(92, 47, 143));
+}
+
+.head{
+    padding: 25px;
+    text-align: center;
+    display: flex;
+    
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head h5{
+    font-size: 14px;
+    margin-bottom: 15px;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+.card1{
+   
+    flex-direction: column;
+    height: 199px;
+    width: 638px;
+}
